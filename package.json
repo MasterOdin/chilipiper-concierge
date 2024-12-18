@@ -15,5 +15,8 @@
     "type": "git",
     "url": "git@github.com:masterodin/chilipiper-concierge.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
